@@ -1,0 +1,53 @@
+[
+  {
+    "slug": "high-voltage",
+    "mainImage": "/H01.png",
+    "images": ["/H01.png", "/H02.png", "/H03.png", "/H04.png"],
+    "ar": {
+      "title": "مشاريع الجهد الفائق ",
+      "description": "إطلاق حملة الإجهاد الحراري 2025 بمشاريع الجهد الفائق.",
+      "long_description": "في إطار حملة الإجهاد الحراري 2025 وتحت شعار \"الوقاية أولاً.. نعمل بأمان في الطقس الحار\"، نظم قسم السلامة والصحة المهنية بقطاع المشروعات محاضرة توعوية موسعة حول أهمية الوقاية من مخاطر الإجهاد الحراري وطرق التعامل الآمن مع ارتفاع درجات الحرارة.\n\nأقيمت المحاضرة بنجاح في عدد من أبرز مواقع مشروعات الجهد الفائق، شملت:\n- مشروع الفردوس\n- مشروع وصلة دهشور\n- مشروع العبور\n\nهدفت المحاضرة إلى رفع مستوى الوعي بين العاملين حول مخاطر الحرارة وكيفية تجنبها، تأكيدًا على التزام الشركة الراسخ بتوفير بيئة عمل آمنة وصحية في كافة مواقعها.",
+      "linkText": "عرض التفاصيل"
+    },
+    "en": {
+      "title": "High Voltage Projects - Heat Stress Campaign",
+      "description": "Launching the Heat Stress Campaign 2025 at the High Voltage Projects.",
+      "long_description": "As part of the Heat Stress Campaign 2025, under the theme \"Prevention First.. Working Safely in Hot Weather\", the Occupational Safety and Health Department at the Projects Sector organized a comprehensive awareness lecture on the importance of preventing heat stress risks and safe practices for dealing with high temperatures.\n\nThe lecture was successfully held at several prominent extra-high voltage project sites, including:\n- Ferdous Project\n- Dahshur Link Project\n- El Obour Project\n\nThe lecture aimed to raise awareness among workers about the dangers of heat and how to avoid them, emphasizing the company's firm commitment to providing a safe and healthy work environment at all its sites.",
+      "linkText": "View Details"
+    }
+  },
+  {
+    "slug": "medium-voltage",
+    "mainImage": "/m01.png",
+    "images": ["/m01.png", "/m02.png", "/m03.png", "/m04.png"],
+    "ar": {
+      "title": "مشاريع الجهد المتوسط ",
+      "description": "إطلاق حملة الإجهاد الحراري 2025 بمشاريع الجهد المتوسط.",
+      "long_description": "في إطار حملة الإجهاد الحراري 2025 وتحت شعار \"الوقاية أولاً.. نعمل بأمان في الطقس الحار\"، نظم قسم السلامة والصحة المهنية بقطاع المشروعات محاضرة توعوية موسعة حول أهمية الوقاية من مخاطر الإجهاد الحراري وطرق التعامل الآمن مع ارتفاع درجات الحرارة.\n\nأقيمت المحاضرة بنجاح في عدد من أبرز مواقع مشروعات الجهد المتوسط، شملت:\n- مشروع الحي الدبلوماسي\n- مشروع الكيان العسكري\n- مشروع التجلي الأعظم\n- مشروع سوهاج\n\nهدفت المحاضرة إلى رفع مستوى الوعي بين العاملين حول مخاطر الحرارة وكيفية تجنبها، تأكيدًا على التزام الشركة الراسخ بتوفير بيئة عمل آمنة وصحية في كافة مواقعها.",
+      "linkText": "عرض التفاصيل"
+    },
+    "en": {
+      "title": "Medium Voltage Projects - Heat Stress Campaign",
+      "description": "Launching the Heat Stress Campaign 2025 at the Medium Voltage Projects.",
+      "long_description": "As part of the Heat Stress Campaign 2025, under the theme \"Prevention First.. Working Safely in Hot Weather\", the Occupational Safety and Health Department at the Projects Sector organized a comprehensive awareness lecture on the importance of preventing heat stress risks and safe practices for dealing with high temperatures.\n\nThe lecture was successfully held at several prominent Medium voltage projects sites, including:\n- Diplomatic Quarter Project\n- Octagon Project\n- Al-Tajalli Al-A'zam Project\n- Sohag Project\n\nThe lecture aimed to raise awareness among workers about the dangers of heat and how to avoid them, emphasizing the company's firm commitment to providing a safe and healthy work environment at all its sites.",
+      "linkText": "View Details"
+    }
+  },
+  {
+    "slug": "Haya-Karima-Projects",
+    "mainImage": "/K01.jpg",
+    "images": ["/K01.jpg", "/K02.jpg"],
+    "ar": {
+      "title": "مشاريع حياة كريمة ",
+      "description": "إطلاق حملة الإجهاد الحراري 2025 بمشاريع حياة كريمة.",
+      "long_description": "في إطار حملة الإجهاد الحراري 2025 وتحت شعار \"الوقاية أولاً.. نعمل بأمان في الطقس الحار\"، نظم قسم السلامة والصحة المهنية بقطاع المشروعات محاضرة توعوية موسعة حول أهمية الوقاية من مخاطر الإجهاد الحراري وطرق التعامل الآمن مع ارتفاع درجات الحرارة.\n\nأقيمت المحاضرة بنجاح في عدد من أبرز مواقع مشروعات حياة كريمة، شملت:\n- مشروع حياة كريمة الفيوم\n- مشروع حياة كريمة مغاغة\n- مشروع حياة كريمة اسوان\n- مشروع حياة كريمة الاقصر\n\nهدفت المحاضرة إلى رفع مستوى الوعي بين العاملين حول مخاطر الحرارة وكيفية تجنبها، تأكيدًا على التزام الشركة الراسخ بتوفير بيئة عمل آمنة وصحية في كافة مواقعها.",
+      "linkText": "عرض التفاصيل"
+    },
+    "en": {
+      "title": "Hayah Karima Projects - Heat Stress Campaign",
+      "description": "Launching the Heat Stress Campaign 2025 at the Hayah Karima Projects.",
+      "long_description": "As part of the Heat Stress Campaign 2025, under the theme \"Prevention First.. Working Safely in Hot Weather\", the Occupational Safety and Health Department at the Projects Sector organized a comprehensive awareness lecture on the importance of preventing heat stress risks and safe practices for dealing with high temperatures.\n\nThe lecture was successfully held at several prominent Haya Karima projects sites, including:\n- Hayah Karima El Fayoum Project\n- Hayah Karima Maghagha Project\n- Hayah Karima Aswan Project\n- Hayah Karima Luxor Project\n\nThe lecture aimed to raise awareness among workers about the dangers of heat and how to avoid them, emphasizing the company's firm commitment to providing a safe and healthy work environment at all its sites.",
+      "linkText": "View Details"
+    }
+  }
+]
